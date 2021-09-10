@@ -1,7 +1,7 @@
 ﻿l_english:
 
 trade_policy_love: "성매매 무역"
-trade_conversion_love_name: ""
+trade_conversion_love_name: "$trade_policy_love$"
 trade_policy_love_desc: ""
 leader_trait_sex_trophies: "섹스 트로피 사냥꾼"
 leader_trait_sex_trophies_desc: "이 장교는 전쟁에서 패배한 적들중에서 가장 매력적인 적들을 자신의 컬렉션에 추가하여 성적 욕구와 스트레스를 해소하고 휘하 부관들에게도 나누어주어 그들의 욕구를 만족시키고 업무에 집중할수 있도록 합니다."
