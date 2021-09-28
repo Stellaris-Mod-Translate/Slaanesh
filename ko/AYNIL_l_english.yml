@@ -2,7 +2,7 @@
 
 trade_policy_love: "성매매 무역"
 trade_conversion_love_name: "$trade_policy_love$"
-trade_policy_love_desc: ""
+trade_policy_love_desc: "사랑, 우정, 그리고 의심스러운 도덕적 결정의 힘을 통해, 우리는 trade_value 무역 가치를 적은 양의 모든 자원으로 변환할 수 있습니다!                       각각 수집한 trade_value 무역 가치는 우리에게 이하 자원들을 벌어다 줍니다 energy 0.2, minerals 0.2, food 0.2, unity 0.1, consumer_goods 0.1, alloys 0.05, physics_research 0.05, engineering_research 0.05, society_research 0.05, volatile_motes 0.02, exotic_gases 0.02, rare_crystals 0.02, nanites 0.01, sr_living_metal 0.01, sr_dark_matter 0.01, 과 sr_zro 0.01""
 leader_trait_sex_trophies: "섹스 트로피 사냥꾼"
 leader_trait_sex_trophies_desc: "이 장교는 전쟁에서 패배한 적들중에서 가장 매력적인 적들을 자신의 컬렉션에 추가하여 성적 욕구와 스트레스를 해소하고 휘하 부관들에게도 나누어주어 그들의 욕구를 만족시키고 업무에 집중할수 있도록 합니다."
 leader_trait_sex_trophies_effect: ""
